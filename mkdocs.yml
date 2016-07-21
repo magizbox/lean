@@ -1,8 +1,8 @@
-site_name: Agile
+site_name: Lean
 pages:
 - "Home": 'index.md'
-- "Team": 'team.md'
-- "Artifacts": 'artifacts.md'
-- "Meetings": 'meetings.md'
+- "Lean Canvas": 'canvas.md'
+- "Workflow": 'workflow.md'
+- "Validated Learning": 'learning.md'
 markdown_extensions:
     - footnotes
